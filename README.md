@@ -1,2 +1,2 @@
 # PHP-MYSQL-User-Login-System
-A smpile login system using PHP, MySQL ,HTML and CSS
+A simple login system using PHP, MySQL ,HTML and CSS
