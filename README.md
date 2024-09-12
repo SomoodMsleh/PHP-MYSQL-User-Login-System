@@ -15,13 +15,13 @@ A login and signup form using HTML, PHP, and MySQL. This form allows users to re
 
 ## Preview
 ### Homepage
-![screenshot](homePage.png)
+![screenshot](img/homePage.png)
 
 ### Signup Page
-![screenshot](RegisterPage.png)
+![screenshot](img/RegisterPage.png)
 
 ### Signin Page
-![screenshot](LoginPage.png)
+![screenshot](img/LoginPage.png)
 
 ### Dashboard Page
-![screenshot](LoggedSuccessfully.png)
+![screenshot](img/LoggedSuccessfully.png)
